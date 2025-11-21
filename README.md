@@ -1,4 +1,4 @@
-# Hi there 👋
+![](https://raw.githubusercontent.com/zhogoshi/github-stats-transparent/output/generated/overview.svg)
 
 <!--
 **burasaki/burasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
